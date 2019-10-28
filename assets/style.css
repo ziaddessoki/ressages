@@ -1,0 +1,56 @@
+body{
+    margin: 20px 20px;
+    background: lightgray url("../assets/n2H4sY.jpg") no-repeat fixed center;
+}
+
+#container{
+    margin: 20px 20px;
+}
+
+h1{
+    width: 100%;
+    padding: 10px 35px;
+    color: white;
+    font-weight: bold;
+}
+
+.mb-3{
+    width: 300px;
+    padding: 10px;
+    
+}
+
+.w{
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    border:2px solid red;
+    color: rgb(78, 77, 77);
+
+}
+
+
+#images{
+    column-count: 5;
+}
+
+.s{
+    width:250px;
+    height: 250px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+p, ptitle{
+    color: white;
+    
+}
+
+
+.tag-input{
+    
+    border: solid 2px red;
+    border-radius: 5px;
+
+    
+}
